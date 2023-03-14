@@ -1,13 +1,13 @@
 package models
 
 type Stock struct {
-	Name              string
-	Price             string
-	ChangePoint       string
-	ChangePercentage  string
-	TotalVol          string
-	DayRangeLower     string
-	DayRangeHigher    string
-	Week52RangeLower  string
-	Week52RangeHigher string
+	Name              string `json:"name"`
+	Price             string `json:"price"`
+	ChangePoint       string `json:"changePoint"`
+	ChangePercentage  string `json:"changePercentage"`
+	TotalVol          string `json:"totalVol"`
+	DayRangeLower     string `json:"dayRangeLower"`
+	DayRangeHigher    string `json:"dayRangeHigher"`
+	Week52RangeLower  string `json:"week52RangeLower"`
+	Week52RangeHigher string `json:"week52RangeHigher"`
 }
