@@ -8,14 +8,14 @@ Request example:
 Response example:
 
     {
-        "Name": "Tesla Inc.",
-        "Price": "183.75",
-        "ChangePoint": "0.49",
-        "ChangePercentage": "0.27",
-        "TotalVol": "143.48M",
-        "DayRangeLower": "177.14",
-        "DayRangeHigher": "183.80",
-        "Week52RangeLower": "101.81",
-        "Week52RangeHigher": "384.29"
+        "name": "Tesla Inc.",
+        "price": "183.75",
+        "changePoint": "0.49",
+        "changePercentage": "0.27",
+        "totalVol": "143.48M",
+        "dayRangeLower": "177.14",
+        "dayRangeHigher": "183.80",
+        "week52RangeLower": "101.81",
+        "week52RangeHigher": "384.29"
     }
 
