@@ -1,5 +1,5 @@
 # StonksDay 
-A WebScraper who get data from marketwatch.
+A WebScraper who get data from marketwatch, numeric values are strings for consistency porpuses.
 
 Request example:
 
